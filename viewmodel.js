@@ -34,7 +34,7 @@ function coloring(){
     for(let i = 0; i< N; i++){
         for(let j = 0; j < N; j++){
             let cell =document.getElementById(`${i*N+j}`);
-            if(state[i][j]== 0){
+            if(state[i][j] == 0){
                   cell.style.backgroundColor = deadColor;
             }
             else{
