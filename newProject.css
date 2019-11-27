@@ -1,0 +1,24 @@
+header{
+    background-color:  rgb(62, 218, 62);
+
+    height: 70px;
+    width: auto;
+
+}
+ul{
+    list-style-type: none;
+    /* padding-top: 10px; */
+    padding: center;
+}
+li{ 
+    padding: 20px;
+    text-align: center;
+    font-size: 35px;
+    display: inline;
+    color: blanchedalmond;
+}
+body{
+    height: 10000px;
+    /* background: linear-gradient(to top left, powderblue, pink); */
+    background: radial-gradient(black, #ebebeb);
+}
